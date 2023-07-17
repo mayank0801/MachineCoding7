@@ -1,0 +1,14 @@
+.Card-contianer {
+  /* height: 200px; */
+  width: 200px;
+  position: relative;
+}
+
+.detail {
+  position: absolute;
+  bottom: 10%;
+  display: flex;
+  justify-content: start;
+  gap: 9px;
+  align-items: center;
+}
